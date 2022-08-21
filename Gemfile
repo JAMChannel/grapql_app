@@ -71,4 +71,6 @@ group :test do
   gem "webdrivers"
 end
 
+gem 'graphql'
+gem 'graphiql-rails' # ブラウザ上でGraphQLを確認できるようにするやつ
 
